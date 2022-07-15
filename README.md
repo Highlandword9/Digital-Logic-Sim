@@ -2,6 +2,7 @@
 
 ![Simulation Screenshot](https://raw.githubusercontent.com/SebLague/Images/master/ALU.png)
 
+
 ## About
 
 This repository contains the [Unity](https://unity.com/) source code for the logic simulation tool used in the [How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) series created by [Sebastian Lague](https://www.youtube.com/c/SebastianLague).
@@ -9,6 +10,7 @@ This repository contains the [Unity](https://unity.com/) source code for the log
 
 
 ## Save files
+
 The tool allows you to create multiple projects and save your circuits as chips.
 This data is stored in default paths that are chosen by Unity.
 
